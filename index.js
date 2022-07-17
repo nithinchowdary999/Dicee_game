@@ -33,7 +33,7 @@ if(randomNumber2 ===1){
   document.querySelector(".img2").setAttribute("src","dice5.png");
 
 }else{
-  document.querySelector(".img2").setAttribute("src","images/dice6.png");
+  document.querySelector(".img2").setAttribute("src","dice6.png");
 
 }
 
